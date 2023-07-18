@@ -30,14 +30,24 @@ function RadialBarChart({ foodData }) {
       .range([0, 2 * Math.PI]);
 
     const yScale = d3.scaleRadial().domain([0, maxDataValue]).range([100, 200]);
+    // Draw rings for each 20% increment
+    for (let i = 0; i <= maxDataValue; i += 20) {
+      // Check if the increment is a multiple of 100
+      const isMultipleOf100 = i % 100 === 0;
 
-    // Draw rings for each 100% increment
-    for (let i = 1; i <= Math.ceil(maxDataValue / 100); i++) {
       g.append("circle")
-        .attr("r", yScale(i * 100))
+        .attr("r", yScale(i))
         .attr("fill", "none")
-        .attr("stroke", "#ccc")
-        .attr("stroke-dasharray", "4,4");
+        .attr("stroke", isMultipleOf100 ? "#33658A" : "#86BBD8") // if i is a multiple of 100, the stroke is green, else it's #ccc
+        .attr("stroke-dasharray", isMultipleOf100 ? "0" : "4,4"); // if i is a multiple of 100, the line is solid, else it's dashed
+
+      // Add text label
+      g.append("text")
+        .attr("x", -7) // adjust x position to properly place the label
+        .attr("y", -yScale(i) - 2) // adjust y position to properly place the label
+        .text(i + "%") // text to display
+        .style("font-size", "15px") // adjust text size
+        .attr("fill", "#2F4858"); // text color
     }
 
     g.selectAll("path")
@@ -53,7 +63,7 @@ function RadialBarChart({ foodData }) {
           .startAngle((d) => xScale(d.nutrient))
           .endAngle((d) => xScale(d.nutrient) + xScale.bandwidth())
           .padAngle(0.01)
-          .padRadius(100)
+          .padRadius(500)
       )
       .attr("fill", (d) => getNutrientColor(d.nutrient));
 
@@ -80,7 +90,43 @@ function RadialBarChart({ foodData }) {
       .style("font-size", "8px");
   }, [foodData]);
 
-  return <svg ref={ref} />;
+  const downloadSVG = () => {
+    const serializer = new XMLSerializer();
+    let source = serializer.serializeToString(ref.current);
+
+    if (!source.match(/^<svg[^>]+xmlns="http\:\/\/www\.w3\.org\/2000\/svg"/)) {
+      source = source.replace(
+        /^<svg/,
+        '<svg xmlns="http://www.w3.org/2000/svg"'
+      );
+    }
+
+    if (!source.match(/^<svg[^>]+"http\:\/\/www\.w3\.org\/1999\/xlink"/)) {
+      source = source.replace(
+        /^<svg/,
+        '<svg xmlns:xlink="http://www.w3.org/1999/xlink"'
+      );
+    }
+
+    source = '<?xml version="1.0" standalone="no"?>\r\n' + source;
+
+    const url =
+      "data:image/svg+xml;charset=utf-8," + encodeURIComponent(source);
+
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = "chart.svg";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
+  return (
+    <div>
+      <svg ref={ref} />
+      <button onClick={downloadSVG}>Download SVG</button>
+    </div>
+  );
 }
 
 export default RadialBarChart;

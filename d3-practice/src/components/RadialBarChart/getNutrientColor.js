@@ -40,12 +40,12 @@ export function isMineral(nutrient) {
 
 export function getNutrientColor(nutrient) {
   if (isVitamin(nutrient)) {
-    return "blue";
+    return "#F6AE2D";
   }
 
   if (isMineral(nutrient)) {
-    return "red";
+    return "#F26419";
   }
 
-  return "black";
+  return "#2F4858";
 }

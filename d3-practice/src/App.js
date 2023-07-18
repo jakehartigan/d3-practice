@@ -30,7 +30,14 @@ function App() {
           ))}
         </select>
       </div>
-      <div style={{ display: "flex", width: "100%", height: "80vh" }}>
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+        }}
+      >
+        <h3>{selectedFood.food}</h3>
         <RadialBarChart foodData={selectedFood.nutrients} />
       </div>
     </div>
