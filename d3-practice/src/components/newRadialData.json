@@ -1,0 +1,10398 @@
+{
+  "foodId1": {
+    "food": "Almond milk, sweetened",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 13
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 21
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 2
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 2
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 1
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 2
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 1
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId2": {
+    "food": "ALMONDS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 18
+      },
+      {
+        "nutrient": "Iron",
+        "value": 24
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId3": {
+    "food": "APPLES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 3
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId4": {
+    "food": "Avocado, raw",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 11
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 18
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 6
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 10
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 11
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 15
+      },
+      {
+        "nutrient": "Folate",
+        "value": 20
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 4
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 6
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 21
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 10
+      },
+      {
+        "nutrient": "Choline",
+        "value": 3
+      }
+    ]
+  },
+  "foodId5": {
+    "food": "Bananas, dehydrated, or banana powder",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 8
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 2
+      },
+      {
+        "nutrient": "Iron",
+        "value": 6
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 2
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 15
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 18
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 18
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 26
+      },
+      {
+        "nutrient": "Folate",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 6
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 26
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 6
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Copper",
+        "value": 43
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 25
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 32
+      },
+      {
+        "nutrient": "Choline",
+        "value": 4
+      }
+    ]
+  },
+  "foodId6": {
+    "food": "BEANS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 12
+      },
+      {
+        "nutrient": "Iron",
+        "value": 40
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId7": {
+    "food": "BEEF",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 24
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId8": {
+    "food": "BELL PEPPERS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 39
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 86
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId9": {
+    "food": "BLUEBERRIES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 3
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 1
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId10": {
+    "food": "BREAD",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 2
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 2
+      },
+      {
+        "nutrient": "Iron",
+        "value": 12
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId11": {
+    "food": "BROCCOLI",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 5
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId12": {
+    "food": "BROWN RICE",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 4
+      },
+      {
+        "nutrient": "Iron",
+        "value": 9
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId13": {
+    "food": "Cereal, crunch",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 55.00000000000001
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 5
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 84
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 78
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 78
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 80
+      },
+      {
+        "nutrient": "Folate",
+        "value": 79
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 75
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 6
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 6
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Copper",
+        "value": 8
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId14": {
+    "food": "Canola oil",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 114.99999999999999
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 59
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId15": {
+    "food": "CARROTS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 2
+      },
+      {
+        "nutrient": "Iron",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId16": {
+    "food": "CASHEWS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 36
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId17": {
+    "food": "CELERY",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 20
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 9
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 3
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId18": {
+    "food": "CHEESE",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 39
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId19": {
+    "food": "CHICKEN",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId20": {
+    "food": "Chicken thigh, fried, coated, prepared skinless, coating eaten, from raw",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 9
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 9
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 12
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 16
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 33
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 21
+      },
+      {
+        "nutrient": "Folate",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 15
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 5
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 41
+      },
+      {
+        "nutrient": "Copper",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 5
+      },
+      {
+        "nutrient": "Choline",
+        "value": 11
+      }
+    ]
+  },
+  "foodId21": {
+    "food": "CHICKPEAS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 6
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 5
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId22": {
+    "food": "CILANTRO",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId23": {
+    "food": "CINNAMON",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId24": {
+    "food": "Beverages, The COCA-COLA company, Minute Maid, Lemonade",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 3
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 2
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId25": {
+    "food": "Coconut oil",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 1
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId26": {
+    "food": "CORN",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId27": {
+    "food": "CORN TORTILLAS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 19
+      },
+      {
+        "nutrient": "Iron",
+        "value": 6
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId28": {
+    "food": "CUCUMBERS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 3
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId29": {
+    "food": "DATES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId30": {
+    "food": "EGGS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 53
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 10
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 31
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 11
+      },
+      {
+        "nutrient": "Folate",
+        "value": 13
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 40
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 19
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 13
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId31": {
+    "food": "FLOUR",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 20
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 26
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 33
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId32": {
+    "food": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 2
+      },
+      {
+        "nutrient": "Iron",
+        "value": 164
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 6
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 1
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 56.99999999999999
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 57.99999999999999
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 56.99999999999999
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 54
+      },
+      {
+        "nutrient": "Folate",
+        "value": 182
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 113.99999999999999
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 22
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 24
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 62
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 95
+      },
+      {
+        "nutrient": "Copper",
+        "value": 40
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Choline",
+        "value": 5
+      }
+    ]
+  },
+  "foodId33": {
+    "food": "GARLIC",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 89
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 51
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId34": {
+    "food": "Raisins, golden, seedless",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 4
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 3
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 1
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 15
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 19
+      },
+      {
+        "nutrient": "Folate",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 8
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 8
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 3
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 25
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 10
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 16
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId35": {
+    "food": "GREEN BEANS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 19
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 3
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId36": {
+    "food": "Grapes, green, seedless, raw",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 3
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 2
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 4
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 5
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId37": {
+    "food": "Honey",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 1
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 3
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 1
+      },
+      {
+        "nutrient": "Folate",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 2
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 4
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 1
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId38": {
+    "food": "HOT SAUCE",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId39": {
+    "food": "JASMINE RICE",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId40": {
+    "food": "JASMINE TEA",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId41": {
+    "food": "JIF TO GO, CREAMY PEANUT BUTTER",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 4
+      },
+      {
+        "nutrient": "Iron",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 6
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 73
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId42": {
+    "food": "Ketchup",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 5
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 10
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 3
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 1
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 13
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 9
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 9
+      },
+      {
+        "nutrient": "Folate",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 3
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 1
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 8
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 6
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId43": {
+    "food": "RUSSELL STOVER, FREEZE-IT CANDY BAR, VANILLA BEAN ICECREAM, VANILLA BEAN ICECREAM",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 39
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId44": {
+    "food": "Beer",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 2
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 3
+      },
+      {
+        "nutrient": "Folate",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 1
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 1
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 1
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 1
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 1
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId45": {
+    "food": "LEMONS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 46
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 3
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId46": {
+    "food": "LENTILS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 47
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId47": {
+    "food": "Lettuce, raw",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 22
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 2
+      },
+      {
+        "nutrient": "Iron",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 63
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 5
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 4
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 4
+      },
+      {
+        "nutrient": "Folate",
+        "value": 9
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 2
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 1
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 3
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 4
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId48": {
+    "food": "LIMES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 8
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 32
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 2
+      },
+      {
+        "nutrient": "Iron",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId49": {
+    "food": "MAPLE SYRUP",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 8
+      },
+      {
+        "nutrient": "Iron",
+        "value": 10
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId50": {
+    "food": "MAYONNAISE",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId51": {
+    "food": "MILK",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 24
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 1
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 10
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId52": {
+    "food": "MILK CHOCOLATE",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId53": {
+    "food": "MUSHROOMS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId54": {
+    "food": "Mustard",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 9
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 1
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 16
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 5
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 4
+      },
+      {
+        "nutrient": "Folate",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 9
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 11
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 6
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 62
+      },
+      {
+        "nutrient": "Copper",
+        "value": 8
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 4
+      }
+    ]
+  },
+  "foodId55": {
+    "food": "STEAK STRIP NY 8 OZ",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 2
+      },
+      {
+        "nutrient": "Iron",
+        "value": 9
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId56": {
+    "food": "Oat milk, unsweetened, plain, refrigerated",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 11
+      },
+      {
+        "nutrient": "Iron",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 9
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 3
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 22
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 21
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 1
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 1
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 3
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 5
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId57": {
+    "food": "OATS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 25
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId58": {
+    "food": "Olive oil",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 139
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 22
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId59": {
+    "food": "Onions, raw",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 9
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 4
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 2
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Folate",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 3
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 2
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 2
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 5
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 4
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId60": {
+    "food": "ORANGES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 28.999999999999996
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 66
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 3
+      },
+      {
+        "nutrient": "Iron",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId61": {
+    "food": "OREGANO",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId62": {
+    "food": "PARSLEY",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId63": {
+    "food": "PASTA",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 5
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 3
+      },
+      {
+        "nutrient": "Iron",
+        "value": 28.000000000000004
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId64": {
+    "food": "Peach, raw",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 5
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 3
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 2
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 2
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 1
+      },
+      {
+        "nutrient": "Folate",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 2
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 2
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 4
+      },
+      {
+        "nutrient": "Copper",
+        "value": 9
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId65": {
+    "food": "PEANUTS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId66": {
+    "food": "PEAS",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId67": {
+    "food": "PORK",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId68": {
+    "food": "Pork sausage",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 6
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 21
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 38
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 11
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 41
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 12
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 4
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 22
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 38
+      },
+      {
+        "nutrient": "Copper",
+        "value": 8
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Choline",
+        "value": 11
+      }
+    ]
+  },
+  "foodId69": {
+    "food": "POTATOES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 3
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 9
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId70": {
+    "food": "QUINOA",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 79
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 4
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId71": {
+    "food": "Raisins",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 3
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 5
+      },
+      {
+        "nutrient": "Iron",
+        "value": 10
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 3
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 9
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 10
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 10
+      },
+      {
+        "nutrient": "Folate",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 8
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 9
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 3
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 30
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 16
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId72": {
+    "food": "RASPBERRIES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 19
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId73": {
+    "food": "RICE",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 18
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 22
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 33
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId74": {
+    "food": "ROSEMARY",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId75": {
+    "food": "Sesame oil",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 9
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 11
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId76": {
+    "food": "SLICED BLACK FOREST HAM",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId77": {
+    "food": "Topping, SMUCKER'S MAGIC SHELL",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 66
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 2
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 1
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 4
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 1
+      },
+      {
+        "nutrient": "Folate",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 3
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 4
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 4
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 4
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 2
+      },
+      {
+        "nutrient": "Copper",
+        "value": 15
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 6
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId78": {
+    "food": "Soy milk",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 6
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Iron",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 2
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 5
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 6
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 3
+      },
+      {
+        "nutrient": "Folate",
+        "value": 5
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 15
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 5
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 5
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 3
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 3
+      },
+      {
+        "nutrient": "Copper",
+        "value": 12
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 4
+      }
+    ]
+  },
+  "foodId79": {
+    "food": "Soy sauce",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 3
+      },
+      {
+        "nutrient": "Iron",
+        "value": 8
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 3
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 13
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 9
+      },
+      {
+        "nutrient": "Folate",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 13
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 18
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 8
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 5
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 9
+      },
+      {
+        "nutrient": "Choline",
+        "value": 3
+      }
+    ]
+  },
+  "foodId80": {
+    "food": "SPINACH",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 31
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 8
+      },
+      {
+        "nutrient": "Iron",
+        "value": 13
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 403
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 43
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 12
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId81": {
+    "food": "STARBUCKS, PREMIUM COFFEE BEVERAGE ICED COFFEE",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId82": {
+    "food": "Strawberries, raw",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 62
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 2
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 2
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 1
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 2
+      },
+      {
+        "nutrient": "Folate",
+        "value": 2
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 3
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 2
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 1
+      },
+      {
+        "nutrient": "Copper",
+        "value": 13
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId83": {
+    "food": "SUGAR",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId84": {
+    "food": "SWEET POTATO",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 588
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 5
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 2
+      },
+      {
+        "nutrient": "Iron",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId85": {
+    "food": "THYME",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId86": {
+    "food": "TOFU",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId87": {
+    "food": "TOMATOES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 49
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 6
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId88": {
+    "food": "TOMATOES",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 49
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 6
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId89": {
+    "food": "TUNA",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 42
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 6
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 3
+      },
+      {
+        "nutrient": "Iron",
+        "value": 4
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId90": {
+    "food": "Vanilla extract",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 1
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 3
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 2
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 3
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 1
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 8
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 10
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId91": {
+    "food": "VEGETABLE BROTH",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 23
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 0
+      },
+      {
+        "nutrient": "Iron",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 0
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 0
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId92": {
+    "food": "Vinegar",
+    "nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin C",
+        "value": 0
+      },
+      {
+        "nutrient": "Calcium",
+        "value": 1
+      },
+      {
+        "nutrient": "Iron",
+        "value": 1
+      },
+      {
+        "nutrient": "Vitamin D",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin E",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin K",
+        "value": 0
+      },
+      {
+        "nutrient": "Thiamin",
+        "value": 0
+      },
+      {
+        "nutrient": "Riboflavin",
+        "value": 0
+      },
+      {
+        "nutrient": "Niacin",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "value": 0
+      },
+      {
+        "nutrient": "Folate",
+        "value": 0
+      },
+      {
+        "nutrient": "Vitamin B12",
+        "value": 0
+      },
+      {
+        "nutrient": "Biotin",
+        "value": 0
+      },
+      {
+        "nutrient": "Pantothenic acid",
+        "value": 0
+      },
+      {
+        "nutrient": "Phosphorus",
+        "value": 1
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Magnesium",
+        "value": 1
+      },
+      {
+        "nutrient": "Zinc",
+        "value": 0
+      },
+      {
+        "nutrient": "Selenium",
+        "value": 0
+      },
+      {
+        "nutrient": "Copper",
+        "value": 1
+      },
+      {
+        "nutrient": "Manganese",
+        "value": 0
+      },
+      {
+        "nutrient": "Chromium",
+        "value": 0
+      },
+      {
+        "nutrient": "Molybdenum",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "Potassium",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  }
+}

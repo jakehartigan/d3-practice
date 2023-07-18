@@ -1,0 +1,10398 @@
+{
+  "foodId1": {
+    "food": "Almond milk, sweetened",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 4
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 13
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 5
+      },
+      {
+        "nutrient": "E",
+        "value": 21
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 2
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 2
+      },
+      {
+        "nutrient": "Zn",
+        "value": 1
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 2
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 1
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId2": {
+    "food": "ALMONDS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 18
+      },
+      {
+        "nutrient": "Fe",
+        "value": 24
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId3": {
+    "food": "APPLES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "C",
+        "value": 3
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 1
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId4": {
+    "food": "Avocado, raw",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 1
+      },
+      {
+        "nutrient": "C",
+        "value": 11
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 3
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "K",
+        "value": 18
+      },
+      {
+        "nutrient": "B1",
+        "value": 6
+      },
+      {
+        "nutrient": "B2",
+        "value": 10
+      },
+      {
+        "nutrient": "B3",
+        "value": 11
+      },
+      {
+        "nutrient": "B6",
+        "value": 15
+      },
+      {
+        "nutrient": "B9",
+        "value": 20
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 4
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Zn",
+        "value": 6
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 21
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 10
+      },
+      {
+        "nutrient": "Choline",
+        "value": 3
+      }
+    ]
+  },
+  "foodId5": {
+    "food": "Bananas, dehydrated, or banana powder",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 1
+      },
+      {
+        "nutrient": "C",
+        "value": 8
+      },
+      {
+        "nutrient": "Ca",
+        "value": 2
+      },
+      {
+        "nutrient": "Fe",
+        "value": 6
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 3
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "B1",
+        "value": 15
+      },
+      {
+        "nutrient": "B2",
+        "value": 18
+      },
+      {
+        "nutrient": "B3",
+        "value": 18
+      },
+      {
+        "nutrient": "B6",
+        "value": 26
+      },
+      {
+        "nutrient": "B9",
+        "value": 4
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 6
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 26
+      },
+      {
+        "nutrient": "Zn",
+        "value": 6
+      },
+      {
+        "nutrient": "Se",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Cu",
+        "value": 43
+      },
+      {
+        "nutrient": "Mn",
+        "value": 25
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 32
+      },
+      {
+        "nutrient": "Choline",
+        "value": 4
+      }
+    ]
+  },
+  "foodId6": {
+    "food": "BEANS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 12
+      },
+      {
+        "nutrient": "Fe",
+        "value": 40
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId7": {
+    "food": "BEEF",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 24
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId8": {
+    "food": "BELL PEPPERS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 39
+      },
+      {
+        "nutrient": "C",
+        "value": 86
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId9": {
+    "food": "BLUEBERRIES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 3
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 1
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId10": {
+    "food": "BREAD",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 2
+      },
+      {
+        "nutrient": "Ca",
+        "value": 2
+      },
+      {
+        "nutrient": "Fe",
+        "value": 12
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId11": {
+    "food": "BROCCOLI",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 5
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 5
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId12": {
+    "food": "BROWN RICE",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 4
+      },
+      {
+        "nutrient": "Fe",
+        "value": 9
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId13": {
+    "food": "Cereal, crunch",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 1
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 55.00000000000001
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 3
+      },
+      {
+        "nutrient": "K",
+        "value": 5
+      },
+      {
+        "nutrient": "B1",
+        "value": 84
+      },
+      {
+        "nutrient": "B2",
+        "value": 78
+      },
+      {
+        "nutrient": "B3",
+        "value": 78
+      },
+      {
+        "nutrient": "B6",
+        "value": 80
+      },
+      {
+        "nutrient": "B9",
+        "value": 79
+      },
+      {
+        "nutrient": "B12",
+        "value": 75
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 6
+      },
+      {
+        "nutrient": "Zn",
+        "value": 6
+      },
+      {
+        "nutrient": "Se",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Cu",
+        "value": 8
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId14": {
+    "food": "Canola oil",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 114.99999999999999
+      },
+      {
+        "nutrient": "K",
+        "value": 59
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId15": {
+    "food": "CARROTS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 2
+      },
+      {
+        "nutrient": "Fe",
+        "value": 3
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId16": {
+    "food": "CASHEWS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 36
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId17": {
+    "food": "CELERY",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 20
+      },
+      {
+        "nutrient": "C",
+        "value": 9
+      },
+      {
+        "nutrient": "Ca",
+        "value": 3
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId18": {
+    "food": "CHEESE",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 39
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId19": {
+    "food": "CHICKEN",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId20": {
+    "food": "Chicken thigh, fried, coated, prepared skinless, coating eaten, from raw",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 1
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "D",
+        "value": 1
+      },
+      {
+        "nutrient": "E",
+        "value": 9
+      },
+      {
+        "nutrient": "K",
+        "value": 9
+      },
+      {
+        "nutrient": "B1",
+        "value": 12
+      },
+      {
+        "nutrient": "B2",
+        "value": 16
+      },
+      {
+        "nutrient": "B3",
+        "value": 33
+      },
+      {
+        "nutrient": "B6",
+        "value": 21
+      },
+      {
+        "nutrient": "B9",
+        "value": 4
+      },
+      {
+        "nutrient": "B12",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 15
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 5
+      },
+      {
+        "nutrient": "Zn",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "Se",
+        "value": 41
+      },
+      {
+        "nutrient": "Cu",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 5
+      },
+      {
+        "nutrient": "Choline",
+        "value": 11
+      }
+    ]
+  },
+  "foodId21": {
+    "food": "CHICKPEAS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 6
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 5
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId22": {
+    "food": "CILANTRO",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId23": {
+    "food": "CINNAMON",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId24": {
+    "food": "Beverages, The COCA-COLA company, Minute Maid, Lemonade",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 3
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 2
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId25": {
+    "food": "Coconut oil",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 1
+      },
+      {
+        "nutrient": "K",
+        "value": 1
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId26": {
+    "food": "CORN",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId27": {
+    "food": "CORN TORTILLAS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 19
+      },
+      {
+        "nutrient": "Fe",
+        "value": 6
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId28": {
+    "food": "CUCUMBERS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 3
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId29": {
+    "food": "DATES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 5
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId30": {
+    "food": "EGGS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 53
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 10
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 31
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 11
+      },
+      {
+        "nutrient": "B9",
+        "value": 13
+      },
+      {
+        "nutrient": "B12",
+        "value": 40
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 19
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 13
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId31": {
+    "food": "FLOUR",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 20
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 26
+      },
+      {
+        "nutrient": "B3",
+        "value": 33
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId32": {
+    "food": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 2
+      },
+      {
+        "nutrient": "Fe",
+        "value": 164
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 6
+      },
+      {
+        "nutrient": "K",
+        "value": 1
+      },
+      {
+        "nutrient": "B1",
+        "value": 56.99999999999999
+      },
+      {
+        "nutrient": "B2",
+        "value": 57.99999999999999
+      },
+      {
+        "nutrient": "B3",
+        "value": 56.99999999999999
+      },
+      {
+        "nutrient": "B6",
+        "value": 54
+      },
+      {
+        "nutrient": "B9",
+        "value": 182
+      },
+      {
+        "nutrient": "B12",
+        "value": 113.99999999999999
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 22
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 24
+      },
+      {
+        "nutrient": "Zn",
+        "value": 62
+      },
+      {
+        "nutrient": "Se",
+        "value": 95
+      },
+      {
+        "nutrient": "Cu",
+        "value": 40
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Choline",
+        "value": 5
+      }
+    ]
+  },
+  "foodId33": {
+    "food": "GARLIC",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 89
+      },
+      {
+        "nutrient": "Ca",
+        "value": 51
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId34": {
+    "food": "Raisins, golden, seedless",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 4
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 5
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 1
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "B1",
+        "value": 1
+      },
+      {
+        "nutrient": "B2",
+        "value": 15
+      },
+      {
+        "nutrient": "B3",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "B6",
+        "value": 19
+      },
+      {
+        "nutrient": "B9",
+        "value": 1
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 8
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 8
+      },
+      {
+        "nutrient": "Zn",
+        "value": 3
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 25
+      },
+      {
+        "nutrient": "Mn",
+        "value": 10
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 16
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId35": {
+    "food": "GREEN BEANS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 19
+      },
+      {
+        "nutrient": "C",
+        "value": 3
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId36": {
+    "food": "Grapes, green, seedless, raw",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 3
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 1
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 2
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Mn",
+        "value": 4
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 5
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId37": {
+    "food": "Honey",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 1
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 3
+      },
+      {
+        "nutrient": "B3",
+        "value": 1
+      },
+      {
+        "nutrient": "B6",
+        "value": 1
+      },
+      {
+        "nutrient": "B9",
+        "value": 1
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 2
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 4
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 1
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId38": {
+    "food": "HOT SAUCE",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId39": {
+    "food": "JASMINE RICE",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId40": {
+    "food": "JASMINE TEA",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId41": {
+    "food": "JIF TO GO, CREAMY PEANUT BUTTER",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 4
+      },
+      {
+        "nutrient": "Fe",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 6
+      },
+      {
+        "nutrient": "B3",
+        "value": 73
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId42": {
+    "food": "Ketchup",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 3
+      },
+      {
+        "nutrient": "C",
+        "value": 5
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 10
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "B1",
+        "value": 1
+      },
+      {
+        "nutrient": "B2",
+        "value": 13
+      },
+      {
+        "nutrient": "B3",
+        "value": 9
+      },
+      {
+        "nutrient": "B6",
+        "value": 9
+      },
+      {
+        "nutrient": "B9",
+        "value": 2
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 3
+      },
+      {
+        "nutrient": "Zn",
+        "value": 1
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 8
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 6
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId43": {
+    "food": "RUSSELL STOVER, FREEZE-IT CANDY BAR, VANILLA BEAN ICECREAM, VANILLA BEAN ICECREAM",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 39
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId44": {
+    "food": "Beer",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 2
+      },
+      {
+        "nutrient": "B3",
+        "value": 3
+      },
+      {
+        "nutrient": "B6",
+        "value": 3
+      },
+      {
+        "nutrient": "B9",
+        "value": 2
+      },
+      {
+        "nutrient": "B12",
+        "value": 1
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 1
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 1
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 1
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 1
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId45": {
+    "food": "LEMONS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 46
+      },
+      {
+        "nutrient": "Ca",
+        "value": 3
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId46": {
+    "food": "LENTILS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 47
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId47": {
+    "food": "Lettuce, raw",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 22
+      },
+      {
+        "nutrient": "C",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Ca",
+        "value": 2
+      },
+      {
+        "nutrient": "Fe",
+        "value": 4
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 1
+      },
+      {
+        "nutrient": "K",
+        "value": 63
+      },
+      {
+        "nutrient": "B1",
+        "value": 5
+      },
+      {
+        "nutrient": "B2",
+        "value": 4
+      },
+      {
+        "nutrient": "B3",
+        "value": 2
+      },
+      {
+        "nutrient": "B6",
+        "value": 4
+      },
+      {
+        "nutrient": "B9",
+        "value": 9
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 2
+      },
+      {
+        "nutrient": "Zn",
+        "value": 1
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 3
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 4
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId48": {
+    "food": "LIMES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 8
+      },
+      {
+        "nutrient": "C",
+        "value": 32
+      },
+      {
+        "nutrient": "Ca",
+        "value": 2
+      },
+      {
+        "nutrient": "Fe",
+        "value": 3
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId49": {
+    "food": "MAPLE SYRUP",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 8
+      },
+      {
+        "nutrient": "Fe",
+        "value": 10
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId50": {
+    "food": "MAYONNAISE",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId51": {
+    "food": "MILK",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 24
+      },
+      {
+        "nutrient": "C",
+        "value": 1
+      },
+      {
+        "nutrient": "Ca",
+        "value": 10
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId52": {
+    "food": "MILK CHOCOLATE",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId53": {
+    "food": "MUSHROOMS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId54": {
+    "food": "Mustard",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 9
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 2
+      },
+      {
+        "nutrient": "K",
+        "value": 1
+      },
+      {
+        "nutrient": "B1",
+        "value": 16
+      },
+      {
+        "nutrient": "B2",
+        "value": 5
+      },
+      {
+        "nutrient": "B3",
+        "value": 4
+      },
+      {
+        "nutrient": "B6",
+        "value": 4
+      },
+      {
+        "nutrient": "B9",
+        "value": 2
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 9
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 11
+      },
+      {
+        "nutrient": "Zn",
+        "value": 6
+      },
+      {
+        "nutrient": "Se",
+        "value": 62
+      },
+      {
+        "nutrient": "Cu",
+        "value": 8
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 4
+      }
+    ]
+  },
+  "foodId55": {
+    "food": "STEAK STRIP NY 8 OZ",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 2
+      },
+      {
+        "nutrient": "Fe",
+        "value": 9
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId56": {
+    "food": "Oat milk, unsweetened, plain, refrigerated",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 11
+      },
+      {
+        "nutrient": "Fe",
+        "value": 1
+      },
+      {
+        "nutrient": "D",
+        "value": 9
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 3
+      },
+      {
+        "nutrient": "B2",
+        "value": 22
+      },
+      {
+        "nutrient": "B3",
+        "value": 1
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 21
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 1
+      },
+      {
+        "nutrient": "Zn",
+        "value": 1
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 3
+      },
+      {
+        "nutrient": "Mn",
+        "value": 5
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId57": {
+    "food": "OATS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 25
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId58": {
+    "food": "Olive oil",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 3
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 139
+      },
+      {
+        "nutrient": "K",
+        "value": 22
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId59": {
+    "food": "Onions, raw",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 9
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 1
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 4
+      },
+      {
+        "nutrient": "B2",
+        "value": 2
+      },
+      {
+        "nutrient": "B3",
+        "value": 1
+      },
+      {
+        "nutrient": "B6",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "B9",
+        "value": 5
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 3
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 2
+      },
+      {
+        "nutrient": "Zn",
+        "value": 2
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 5
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 4
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId60": {
+    "food": "ORANGES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 28.999999999999996
+      },
+      {
+        "nutrient": "C",
+        "value": 66
+      },
+      {
+        "nutrient": "Ca",
+        "value": 3
+      },
+      {
+        "nutrient": "Fe",
+        "value": 1
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId61": {
+    "food": "OREGANO",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId62": {
+    "food": "PARSLEY",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId63": {
+    "food": "PASTA",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 5
+      },
+      {
+        "nutrient": "Ca",
+        "value": 3
+      },
+      {
+        "nutrient": "Fe",
+        "value": 28.000000000000004
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId64": {
+    "food": "Peach, raw",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 3
+      },
+      {
+        "nutrient": "C",
+        "value": 5
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 5
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "B1",
+        "value": 2
+      },
+      {
+        "nutrient": "B2",
+        "value": 2
+      },
+      {
+        "nutrient": "B3",
+        "value": 5
+      },
+      {
+        "nutrient": "B6",
+        "value": 1
+      },
+      {
+        "nutrient": "B9",
+        "value": 2
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 2
+      },
+      {
+        "nutrient": "Zn",
+        "value": 2
+      },
+      {
+        "nutrient": "Se",
+        "value": 4
+      },
+      {
+        "nutrient": "Cu",
+        "value": 9
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId65": {
+    "food": "PEANUTS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId66": {
+    "food": "PEAS",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 4
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId67": {
+    "food": "PORK",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId68": {
+    "food": "Pork sausage",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 3
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "D",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "E",
+        "value": 6
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 21
+      },
+      {
+        "nutrient": "B2",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "B3",
+        "value": 38
+      },
+      {
+        "nutrient": "B6",
+        "value": 11
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 41
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 12
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 4
+      },
+      {
+        "nutrient": "Zn",
+        "value": 22
+      },
+      {
+        "nutrient": "Se",
+        "value": 38
+      },
+      {
+        "nutrient": "Cu",
+        "value": 8
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Choline",
+        "value": 11
+      }
+    ]
+  },
+  "foodId69": {
+    "food": "POTATOES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 3
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 4
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 9
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId70": {
+    "food": "QUINOA",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 79
+      },
+      {
+        "nutrient": "C",
+        "value": 4
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 4
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId71": {
+    "food": "Raisins",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 3
+      },
+      {
+        "nutrient": "Ca",
+        "value": 5
+      },
+      {
+        "nutrient": "Fe",
+        "value": 10
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 1
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "B1",
+        "value": 9
+      },
+      {
+        "nutrient": "B2",
+        "value": 10
+      },
+      {
+        "nutrient": "B3",
+        "value": 5
+      },
+      {
+        "nutrient": "B6",
+        "value": 10
+      },
+      {
+        "nutrient": "B9",
+        "value": 1
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 8
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 9
+      },
+      {
+        "nutrient": "Zn",
+        "value": 3
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 30
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 16
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId72": {
+    "food": "RASPBERRIES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 19
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 4
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId73": {
+    "food": "RICE",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 18
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 22
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 33
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId74": {
+    "food": "ROSEMARY",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId75": {
+    "food": "Sesame oil",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 9
+      },
+      {
+        "nutrient": "K",
+        "value": 11
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId76": {
+    "food": "SLICED BLACK FOREST HAM",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 4
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId77": {
+    "food": "Topping, SMUCKER'S MAGIC SHELL",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 1
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 66
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "B1",
+        "value": 1
+      },
+      {
+        "nutrient": "B2",
+        "value": 4
+      },
+      {
+        "nutrient": "B3",
+        "value": 1
+      },
+      {
+        "nutrient": "B6",
+        "value": 1
+      },
+      {
+        "nutrient": "B9",
+        "value": 2
+      },
+      {
+        "nutrient": "B12",
+        "value": 3
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 4
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 4
+      },
+      {
+        "nutrient": "Zn",
+        "value": 4
+      },
+      {
+        "nutrient": "Se",
+        "value": 2
+      },
+      {
+        "nutrient": "Cu",
+        "value": 15
+      },
+      {
+        "nutrient": "Mn",
+        "value": 6
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 2
+      }
+    ]
+  },
+  "foodId78": {
+    "food": "Soy milk",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 6
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "Fe",
+        "value": 3
+      },
+      {
+        "nutrient": "D",
+        "value": 4
+      },
+      {
+        "nutrient": "E",
+        "value": 1
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "B1",
+        "value": 5
+      },
+      {
+        "nutrient": "B2",
+        "value": 6
+      },
+      {
+        "nutrient": "B3",
+        "value": 1
+      },
+      {
+        "nutrient": "B6",
+        "value": 3
+      },
+      {
+        "nutrient": "B9",
+        "value": 5
+      },
+      {
+        "nutrient": "B12",
+        "value": 15
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 5
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 5
+      },
+      {
+        "nutrient": "Zn",
+        "value": 3
+      },
+      {
+        "nutrient": "Se",
+        "value": 3
+      },
+      {
+        "nutrient": "Cu",
+        "value": 12
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 4
+      }
+    ]
+  },
+  "foodId79": {
+    "food": "Soy sauce",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 3
+      },
+      {
+        "nutrient": "Fe",
+        "value": 8
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 3
+      },
+      {
+        "nutrient": "B2",
+        "value": 13
+      },
+      {
+        "nutrient": "B3",
+        "value": 14.000000000000002
+      },
+      {
+        "nutrient": "B6",
+        "value": 9
+      },
+      {
+        "nutrient": "B9",
+        "value": 4
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 13
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 18
+      },
+      {
+        "nutrient": "Zn",
+        "value": 8
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 5
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 9
+      },
+      {
+        "nutrient": "Choline",
+        "value": 3
+      }
+    ]
+  },
+  "foodId80": {
+    "food": "SPINACH",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 31
+      },
+      {
+        "nutrient": "Ca",
+        "value": 8
+      },
+      {
+        "nutrient": "Fe",
+        "value": 13
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 403
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 43
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 12
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId81": {
+    "food": "STARBUCKS, PREMIUM COFFEE BEVERAGE ICED COFFEE",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId82": {
+    "food": "Strawberries, raw",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 62
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 2
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 2
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "B1",
+        "value": 2
+      },
+      {
+        "nutrient": "B2",
+        "value": 1
+      },
+      {
+        "nutrient": "B3",
+        "value": 2
+      },
+      {
+        "nutrient": "B6",
+        "value": 2
+      },
+      {
+        "nutrient": "B9",
+        "value": 2
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 2
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 3
+      },
+      {
+        "nutrient": "Zn",
+        "value": 2
+      },
+      {
+        "nutrient": "Se",
+        "value": 1
+      },
+      {
+        "nutrient": "Cu",
+        "value": 13
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 1
+      }
+    ]
+  },
+  "foodId83": {
+    "food": "SUGAR",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId84": {
+    "food": "SWEET POTATO",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 588
+      },
+      {
+        "nutrient": "C",
+        "value": 5
+      },
+      {
+        "nutrient": "Ca",
+        "value": 2
+      },
+      {
+        "nutrient": "Fe",
+        "value": 3
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId85": {
+    "food": "THYME",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId86": {
+    "food": "TOFU",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId87": {
+    "food": "TOMATOES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 49
+      },
+      {
+        "nutrient": "C",
+        "value": 6
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId88": {
+    "food": "TOMATOES",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 49
+      },
+      {
+        "nutrient": "C",
+        "value": 6
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId89": {
+    "food": "TUNA",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 42
+      },
+      {
+        "nutrient": "C",
+        "value": 6
+      },
+      {
+        "nutrient": "Ca",
+        "value": 3
+      },
+      {
+        "nutrient": "Fe",
+        "value": 4
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId90": {
+    "food": "Vanilla extract",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 1
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 1
+      },
+      {
+        "nutrient": "B2",
+        "value": 7.000000000000001
+      },
+      {
+        "nutrient": "B3",
+        "value": 3
+      },
+      {
+        "nutrient": "B6",
+        "value": 2
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 3
+      },
+      {
+        "nutrient": "Zn",
+        "value": 1
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 8
+      },
+      {
+        "nutrient": "Mn",
+        "value": 10
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 3
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId91": {
+    "food": "VEGETABLE BROTH",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 23
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 0
+      },
+      {
+        "nutrient": "Fe",
+        "value": 0
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 0
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 0
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 0
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  },
+  "foodId92": {
+    "food": "Vinegar",
+    "nutrients": [
+      {
+        "nutrient": "A",
+        "value": 0
+      },
+      {
+        "nutrient": "C",
+        "value": 0
+      },
+      {
+        "nutrient": "Ca",
+        "value": 1
+      },
+      {
+        "nutrient": "Fe",
+        "value": 1
+      },
+      {
+        "nutrient": "D",
+        "value": 0
+      },
+      {
+        "nutrient": "E",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 0
+      },
+      {
+        "nutrient": "B1",
+        "value": 0
+      },
+      {
+        "nutrient": "B2",
+        "value": 0
+      },
+      {
+        "nutrient": "B3",
+        "value": 0
+      },
+      {
+        "nutrient": "B6",
+        "value": 0
+      },
+      {
+        "nutrient": "B9",
+        "value": 0
+      },
+      {
+        "nutrient": "B12",
+        "value": 0
+      },
+      {
+        "nutrient": "B7",
+        "value": 0
+      },
+      {
+        "nutrient": "B5",
+        "value": 0
+      },
+      {
+        "nutrient": "P",
+        "value": 1
+      },
+      {
+        "nutrient": "Iodine",
+        "value": 0
+      },
+      {
+        "nutrient": "Mg",
+        "value": 1
+      },
+      {
+        "nutrient": "Zn",
+        "value": 0
+      },
+      {
+        "nutrient": "Se",
+        "value": 0
+      },
+      {
+        "nutrient": "Cu",
+        "value": 1
+      },
+      {
+        "nutrient": "Mn",
+        "value": 0
+      },
+      {
+        "nutrient": "Cr",
+        "value": 0
+      },
+      {
+        "nutrient": "Mo",
+        "value": 0
+      },
+      {
+        "nutrient": "Chloride",
+        "value": 0
+      },
+      {
+        "nutrient": "K",
+        "value": 2
+      },
+      {
+        "nutrient": "Choline",
+        "value": 0
+      }
+    ]
+  }
+}

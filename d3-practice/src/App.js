@@ -1,37 +1,37 @@
 import React, { useState } from "react";
-import foodData from "../src/assets/food_nutrition_PDV.json";
-import BarChart from "./components/BarChart";
+import RadialBarChart from "./components/RadialBarChart";
+import data from "../src/components/newAbrvRadialData.json";
+
+// Convert data object into array
+const foodArray = Object.keys(data).map((foodId) => ({
+  foodId,
+  ...data[foodId],
+}));
 
 function App() {
-  const [selectedFood, setSelectedFood] = useState("Almond milk, sweetened");
-
-  const handleSelectChange = (event) => {
-    setSelectedFood(event.target.value);
-  };
+  const [selectedFood, setSelectedFood] = useState(foodArray[0]);
 
   return (
-    <div
-      style={{
-        display: "block",
-        height: "100vh",
-        width: "100vw",
-        backgroundColor: "gray",
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
-      <div
-        style={{
-          display: "flex",
-
-          height: "100%",
-          backgroundColor: "white",
-          justifyContent: "center",
-          alignItems: "center",
-          padding: 50,
-        }}
-      >
-        <BarChart />
+    <div>
+      <div>
+        <h3>Nutrient Chart</h3>
+        <select
+          value={selectedFood.foodId}
+          onChange={(e) => {
+            const foodId = e.target.value;
+            const food = foodArray.find((food) => food.foodId === foodId);
+            setSelectedFood(food);
+          }}
+        >
+          {foodArray.map((food) => (
+            <option key={food.foodId} value={food.foodId}>
+              {food.food}
+            </option>
+          ))}
+        </select>
+      </div>
+      <div style={{ display: "flex", width: "100%", height: "80vh" }}>
+        <RadialBarChart foodData={selectedFood.nutrients} />
       </div>
     </div>
   );
