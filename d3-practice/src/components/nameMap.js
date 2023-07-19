@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const rawData = require("./newRadialData.json");
+const rawData = require("./step2Data.json");
 
 const nutrientNameMap = {
   "Vitamin A": "A",
@@ -49,8 +49,10 @@ for (let foodId in rawData) {
 
 // Write the new data to a new JSON file
 fs.writeFileSync(
-  path.join(__dirname, "newAbrvRadialData.json"),
+  path.join(__dirname, "finalData.json"),
   JSON.stringify(newRadialData, null, 2)
 );
 
-console.log("New file with abbreviated nutrient names has been created!");
+console.log(
+  " finalData file with abbreviated nutrient names has been created!"
+);

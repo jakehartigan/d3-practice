@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import RadialBarChart from "./components/RadialBarChart";
-import data from "../src/components/newAbrvRadialData.json";
+import data from "../src/components/finalData.json";
 
 // Convert data object into array
 const foodArray = Object.keys(data).map((foodId) => ({

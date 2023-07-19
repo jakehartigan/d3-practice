@@ -23,31 +23,34 @@ function RadialBarChart({ foodData }) {
 
     const g = svg.append("g").attr("transform", "translate(250,250)");
 
-    const maxDataValue = d3.max(foodData, (d) => d.value);
+    const maxDataValue = d3.max(foodData, (d) => d.value * 100);
     const xScale = d3
       .scaleBand()
       .domain(sortedData.map((d) => d.nutrient))
       .range([0, 2 * Math.PI]);
 
     const yScale = d3.scaleRadial().domain([0, maxDataValue]).range([100, 200]);
-    // Draw rings for each 20% increment
-    for (let i = 0; i <= maxDataValue; i += 20) {
-      // Check if the increment is a multiple of 100
+    // Draw rings for each 20% increment up to 100% and each 100% increment if nutrient value exceeds 100%
+    for (let i = 0; i <= maxDataValue; i += i < 100 ? 20 : 100) {
       const isMultipleOf100 = i % 100 === 0;
+      const shouldShowRing =
+        i <= 100 || (isMultipleOf100 && maxDataValue >= 100);
 
-      g.append("circle")
-        .attr("r", yScale(i))
-        .attr("fill", "none")
-        .attr("stroke", isMultipleOf100 ? "#33658A" : "#86BBD8") // if i is a multiple of 100, the stroke is green, else it's #ccc
-        .attr("stroke-dasharray", isMultipleOf100 ? "0" : "4,4"); // if i is a multiple of 100, the line is solid, else it's dashed
+      if (shouldShowRing) {
+        g.append("circle")
+          .attr("r", yScale(i))
+          .attr("fill", "none")
+          .attr("stroke", isMultipleOf100 ? "#33658A" : "#86BBD8")
+          .attr("stroke-dasharray", isMultipleOf100 ? "0" : "4,4");
 
-      // Add text label
-      g.append("text")
-        .attr("x", -7) // adjust x position to properly place the label
-        .attr("y", -yScale(i) - 2) // adjust y position to properly place the label
-        .text(i + "%") // text to display
-        .style("font-size", "15px") // adjust text size
-        .attr("fill", "#2F4858"); // text color
+        // Add text label
+        g.append("text")
+          .attr("x", -7) // adjust x position to properly place the label
+          .attr("y", -yScale(i) - 2) // adjust y position to properly place the label
+          .text(i + "%") // text to display
+          .style("font-size", "15px") // adjust text size
+          .attr("fill", "#2F4858"); // text color
+      }
     }
 
     g.selectAll("path")
@@ -59,7 +62,7 @@ function RadialBarChart({ foodData }) {
         d3
           .arc()
           .innerRadius(100)
-          .outerRadius((d) => yScale(d.value))
+          .outerRadius((d) => yScale(d.value * 100))
           .startAngle((d) => xScale(d.nutrient))
           .endAngle((d) => xScale(d.nutrient) + xScale.bandwidth())
           .padAngle(0.01)

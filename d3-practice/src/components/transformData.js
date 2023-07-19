@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 fs.readFile(
-  "/Users/jakehartigan/Desktop/Apace/Ai_Coding_Projects/d3-practice/d3-practice/src/assets/food_nutrition_PDV.json",
+  "/Users/jakehartigan/Desktop/Apace/Ai_Coding_Projects/d3-practice/d3-practice/src/assets/updatedNutritionTable.json",
   "utf8",
   (err, data) => {
     if (err) {
