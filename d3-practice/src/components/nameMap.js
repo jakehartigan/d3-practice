@@ -27,9 +27,9 @@ const nutrientNameMap = {
   Manganese: "Mn",
   Chromium: "Cr",
   Molybdenum: "Mo",
-  Chloride: "Chloride",
+  Chloride: "Chl",
   Potassium: "K",
-  Choline: "Choline",
+  Choline: "Chol",
 };
 
 // Create a new object to hold the updated data

@@ -21,15 +21,59 @@ function RadialBarChart({ foodData }) {
     // Clear svg
     svg.selectAll("*").remove();
 
+    // Create shadow filter
+    const defs = svg.append("defs");
+
+    const filter = defs
+      .append("filter")
+      .attr("id", "drop-shadow")
+      .attr("height", "130%");
+
+    filter
+      .append("feGaussianBlur")
+      .attr("in", "SourceAlpha")
+      .attr("stdDeviation", 5)
+      .attr("result", "blur");
+
+    filter
+      .append("feOffset")
+      .attr("in", "blur")
+      .attr("dx", -5)
+      .attr("dy", 10)
+      .attr("result", "offsetBlur");
+
+    const feComponentTransfer = filter.append("feComponentTransfer");
+
+    feComponentTransfer
+      .append("feFuncA")
+      .attr("type", "linear")
+      .attr("slope", 0.2);
+
+    const feMerge = filter.append("feMerge");
+
+    feMerge.append("feMergeNode");
+    feMerge.append("feMergeNode").attr("in", "SourceGraphic");
+
     const g = svg.append("g").attr("transform", "translate(250,250)");
 
-    const maxDataValue = d3.max(foodData, (d) => d.value * 100);
+    const maxDataValue = d3.max(foodData, (d) => d.value);
     const xScale = d3
       .scaleBand()
       .domain(sortedData.map((d) => d.nutrient))
       .range([0, 2 * Math.PI]);
 
     const yScale = d3.scaleRadial().domain([0, maxDataValue]).range([100, 200]);
+
+    // Draw the background circle
+    const maxRadius = yScale(maxDataValue) + 3;
+    g.append("circle")
+      .attr("r", maxRadius)
+      .attr("fill", "rgba(0,0,0,0.25)")
+      .attr("stroke", "rgba(0,200,250,1");
+
+    // Draw inner circle
+    g.append("circle").attr("r", 100).attr("fill", "rgba(0,0,0,1)");
+
     // Draw rings for each 20% increment up to 100% and each 100% increment if nutrient value exceeds 100%
     for (let i = 0; i <= maxDataValue; i += i < 100 ? 20 : 100) {
       const isMultipleOf100 = i % 100 === 0;
@@ -62,13 +106,14 @@ function RadialBarChart({ foodData }) {
         d3
           .arc()
           .innerRadius(100)
-          .outerRadius((d) => yScale(d.value * 100))
+          .outerRadius((d) => yScale(d.value))
           .startAngle((d) => xScale(d.nutrient))
           .endAngle((d) => xScale(d.nutrient) + xScale.bandwidth())
           .padAngle(0.01)
           .padRadius(500)
       )
-      .attr("fill", (d) => getNutrientColor(d.nutrient));
+      .attr("fill", (d) => getNutrientColor(d.nutrient))
+      .style("filter", "url(#drop-shadow)"); // Apply the filter to the paths
 
     g.append("g")
       .selectAll("g")
@@ -90,7 +135,8 @@ function RadialBarChart({ foodData }) {
           : "rotate(-90)translate(0, -15)"
       )
       .text((d) => d.nutrient)
-      .style("font-size", "8px");
+      .style("font-size", "8px")
+      .attr("fill", "white"); // change text color to white
   }, [foodData]);
 
   const downloadSVG = () => {

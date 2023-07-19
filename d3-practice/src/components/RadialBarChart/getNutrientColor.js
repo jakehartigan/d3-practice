@@ -14,7 +14,7 @@ export function isVitamin(nutrient) {
     "B12",
     "B7",
     "B5",
-    "Choline",
+    "Chol",
   ];
   return vitamins.includes(nutrient);
 }
@@ -32,7 +32,7 @@ export function isMineral(nutrient) {
     "Mn",
     "Cr",
     "Mo",
-    "Chloride",
+    "Chl",
     "K",
   ];
   return minerals.includes(nutrient);
@@ -40,11 +40,11 @@ export function isMineral(nutrient) {
 
 export function getNutrientColor(nutrient) {
   if (isVitamin(nutrient)) {
-    return "#F6AE2D";
+    return "#FEBC5E";
   }
 
   if (isMineral(nutrient)) {
-    return "#F26419";
+    return "#DF5C51";
   }
 
   return "#2F4858";
