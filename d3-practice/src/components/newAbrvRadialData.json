@@ -27,7 +27,7 @@
         "value": 21
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -140,7 +140,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -253,7 +253,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -366,7 +366,7 @@
         "value": 14.000000000000002
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 18
       },
       {
@@ -479,7 +479,7 @@
         "value": 3
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 2
       },
       {
@@ -592,7 +592,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -705,7 +705,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -818,7 +818,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -931,7 +931,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -1044,7 +1044,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -1157,7 +1157,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -1270,7 +1270,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -1383,7 +1383,7 @@
         "value": 3
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 5
       },
       {
@@ -1496,7 +1496,7 @@
         "value": 114.99999999999999
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 59
       },
       {
@@ -1609,7 +1609,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -1722,7 +1722,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -1835,7 +1835,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -1948,7 +1948,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -2061,7 +2061,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -2174,7 +2174,7 @@
         "value": 9
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 9
       },
       {
@@ -2287,7 +2287,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -2400,7 +2400,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -2513,7 +2513,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -2626,7 +2626,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -2739,7 +2739,7 @@
         "value": 1
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 1
       },
       {
@@ -2852,7 +2852,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -2965,7 +2965,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -3078,7 +3078,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -3191,7 +3191,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -3304,7 +3304,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -3417,7 +3417,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -3530,7 +3530,7 @@
         "value": 6
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 1
       },
       {
@@ -3643,7 +3643,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -3756,7 +3756,7 @@
         "value": 1
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 3
       },
       {
@@ -3869,7 +3869,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -3982,7 +3982,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -4095,7 +4095,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -4208,7 +4208,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -4321,7 +4321,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -4434,7 +4434,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -4547,7 +4547,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -4660,7 +4660,7 @@
         "value": 10
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 3
       },
       {
@@ -4773,7 +4773,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -4886,7 +4886,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -4999,7 +4999,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -5112,7 +5112,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -5225,7 +5225,7 @@
         "value": 1
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 63
       },
       {
@@ -5338,7 +5338,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -5451,7 +5451,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -5564,7 +5564,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -5677,7 +5677,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -5790,7 +5790,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -5903,7 +5903,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -6016,7 +6016,7 @@
         "value": 2
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 1
       },
       {
@@ -6129,7 +6129,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -6242,7 +6242,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -6355,7 +6355,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -6468,7 +6468,7 @@
         "value": 139
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 22
       },
       {
@@ -6581,7 +6581,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -6694,7 +6694,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -6807,7 +6807,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -6920,7 +6920,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -7033,7 +7033,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -7146,7 +7146,7 @@
         "value": 5
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 3
       },
       {
@@ -7259,7 +7259,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -7372,7 +7372,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -7485,7 +7485,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -7598,7 +7598,7 @@
         "value": 6
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -7711,7 +7711,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -7824,7 +7824,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -7937,7 +7937,7 @@
         "value": 1
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 3
       },
       {
@@ -8050,7 +8050,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -8163,7 +8163,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -8276,7 +8276,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -8389,7 +8389,7 @@
         "value": 9
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 11
       },
       {
@@ -8502,7 +8502,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -8615,7 +8615,7 @@
         "value": 66
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 2
       },
       {
@@ -8728,7 +8728,7 @@
         "value": 1
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 2
       },
       {
@@ -8841,7 +8841,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -8954,7 +8954,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 403
       },
       {
@@ -9067,7 +9067,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -9180,7 +9180,7 @@
         "value": 2
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 2
       },
       {
@@ -9293,7 +9293,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -9406,7 +9406,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -9519,7 +9519,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -9632,7 +9632,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -9745,7 +9745,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -9858,7 +9858,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -9971,7 +9971,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -10084,7 +10084,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -10197,7 +10197,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {
@@ -10310,7 +10310,7 @@
         "value": 0
       },
       {
-        "nutrient": "K",
+        "nutrient": "vK",
         "value": 0
       },
       {

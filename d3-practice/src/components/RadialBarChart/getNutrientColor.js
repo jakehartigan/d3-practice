@@ -5,7 +5,7 @@ export function isVitamin(nutrient) {
     "C",
     "D",
     "E",
-    "K",
+    "vK",
     "B1",
     "B2",
     "B3",

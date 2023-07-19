@@ -9,7 +9,7 @@ const nutrientNameMap = {
   Iron: "Fe",
   "Vitamin D": "D",
   "Vitamin E": "E",
-  "Vitamin K": "K",
+  "Vitamin K": "vK",
   Thiamin: "B1",
   Riboflavin: "B2",
   Niacin: "B3",
