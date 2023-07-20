@@ -19,7 +19,7 @@ const nutrientNameMap = {
   Biotin: "B7",
   "Pantothenic acid": "B5",
   Phosphorus: "P",
-  Iodine: "Iodine",
+  Iodine: "I",
   Magnesium: "Mg",
   Zinc: "Zn",
   Selenium: "Se",

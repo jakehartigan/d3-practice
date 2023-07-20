@@ -24,7 +24,7 @@ export function isMineral(nutrient) {
     "Ca",
     "Fe",
     "P",
-    "Iodine",
+    "I",
     "Mg",
     "Zn",
     "Se",

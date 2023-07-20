@@ -23,9 +23,28 @@
   }
 }
 
+.App-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
 .App-screen {
-  height: 100%;
+  height: 100vh;
   background: linear-gradient(to bottom left, #475a60, #19222a);
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (max-width: 1000px) {
+  .App-screen {
+    flex-direction: column-reverse;
+    height: 100%;
+  }
 }
 
 .App-text {
@@ -51,4 +70,12 @@
   transition: transform 1s ease-out;
   display: inline-block;
   backgroundcolor: rgba(250, 250, 250, 0.25);
+}
+.App-Keys {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  paddingtop: 20px;
 }

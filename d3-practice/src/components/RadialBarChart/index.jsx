@@ -1,6 +1,9 @@
 import React, { useEffect, useRef } from "react";
 import * as d3 from "d3";
 import { getNutrientColor, isVitamin, isMineral } from "./getNutrientColor";
+import logo from "../../assets/images/Apace_MicroBreakdown_Logo.svg";
+
+const scaleAdj = 0.75;
 
 function RadialBarChart({ foodData }) {
   const ref = useRef();
@@ -16,7 +19,10 @@ function RadialBarChart({ foodData }) {
       return 0;
     });
 
-    const svg = d3.select(ref.current).attr("width", 500).attr("height", 500);
+    const svg = d3
+      .select(ref.current)
+      .attr("width", 1000 * scaleAdj)
+      .attr("height", 1000 * scaleAdj);
 
     // Clear svg
     svg.selectAll("*").remove();
@@ -54,7 +60,9 @@ function RadialBarChart({ foodData }) {
     feMerge.append("feMergeNode");
     feMerge.append("feMergeNode").attr("in", "SourceGraphic");
 
-    const g = svg.append("g").attr("transform", "translate(250,250)");
+    const g = svg
+      .append("g")
+      .attr("transform", `translate(${500 * scaleAdj},${500 * scaleAdj})`);
 
     const maxDataValue = d3.max(foodData, (d) => d.value);
     const xScale = d3
@@ -62,14 +70,18 @@ function RadialBarChart({ foodData }) {
       .domain(sortedData.map((d) => d.nutrient))
       .range([0, 2 * Math.PI]);
 
-    const yScale = d3.scaleRadial().domain([0, maxDataValue]).range([100, 200]);
+    const yScale = d3
+      .scaleRadial()
+      .domain([0, maxDataValue])
+      .range([200 * scaleAdj, 400 * scaleAdj]);
 
     // Draw the background circle
     const maxRadius = yScale(maxDataValue) + 3;
     g.append("circle")
       .attr("r", maxRadius)
       .attr("fill", "rgba(0,0,0,0.25)")
-      .attr("stroke", "rgba(0,200,250,1");
+      .attr("stroke", "rgba(0,0,0,0.5")
+      .attr("stroke-width", 5);
 
     // Draw inner circle
     g.append("circle").attr("r", 100).attr("fill", "rgba(0,0,0,1)");
@@ -80,23 +92,23 @@ function RadialBarChart({ foodData }) {
       const shouldShowRing =
         i <= 100 || (isMultipleOf100 && maxDataValue >= 100);
 
-      if (shouldShowRing) {
+      // Skip the 0% dashed line
+      if (i > 0 && shouldShowRing) {
         g.append("circle")
           .attr("r", yScale(i))
           .attr("fill", "none")
-          .attr("stroke", isMultipleOf100 ? "#33658A" : "#86BBD8")
+          .attr("stroke", isMultipleOf100 ? "#06D6A0" : "#86BBD8")
           .attr("stroke-dasharray", isMultipleOf100 ? "0" : "4,4");
 
         // Add text label
         g.append("text")
-          .attr("x", -7) // adjust x position to properly place the label
-          .attr("y", -yScale(i) - 2) // adjust y position to properly place the label
+          .attr("x", -10) // adjust x position to properly place the label
+          .attr("y", -yScale(i) + 12 + scaleAdj) // adjust y position to properly place the label
           .text(i + "%") // text to display
           .style("font-size", "15px") // adjust text size
-          .attr("fill", "#2F4858"); // text color
+          .attr("fill", isMultipleOf100 ? "#06D6A0" : "#86BBD8"); // text color
       }
     }
-
     g.selectAll("path")
       .data(sortedData)
       .enter()
@@ -105,15 +117,15 @@ function RadialBarChart({ foodData }) {
         "d",
         d3
           .arc()
-          .innerRadius(100)
-          .outerRadius((d) => yScale(d.value))
+          .innerRadius((d) => (d.value === 0 ? 0 : 100))
+          .outerRadius((d) => (d.value === 0 ? 0 : yScale(d.value)))
           .startAngle((d) => xScale(d.nutrient))
           .endAngle((d) => xScale(d.nutrient) + xScale.bandwidth())
           .padAngle(0.01)
           .padRadius(500)
       )
       .attr("fill", (d) => getNutrientColor(d.nutrient))
-      .style("filter", "url(#drop-shadow)"); // Apply the filter to the paths
+      .style("filter", "url(#drop-shadow)");
 
     g.append("g")
       .selectAll("g")
@@ -135,45 +147,26 @@ function RadialBarChart({ foodData }) {
           : "rotate(-90)translate(0, -15)"
       )
       .text((d) => d.nutrient)
-      .style("font-size", "8px")
+      .style("font-size", `${15 * scaleAdj}px`)
       .attr("fill", "white"); // change text color to white
+
+    //ads logo to center
+    fetch(logo)
+      .then((response) => response.text())
+      .then((data) => {
+        // Create a new SVG group for the logo
+        const logoGroup = g
+          .append("g")
+          .attr("transform", `scale(${scaleAdj}) translate(-71 -80)`);
+
+        // Set the logo SVG as the group's HTML content
+        logoGroup.node().innerHTML = data;
+      });
   }, [foodData]);
-
-  const downloadSVG = () => {
-    const serializer = new XMLSerializer();
-    let source = serializer.serializeToString(ref.current);
-
-    if (!source.match(/^<svg[^>]+xmlns="http\:\/\/www\.w3\.org\/2000\/svg"/)) {
-      source = source.replace(
-        /^<svg/,
-        '<svg xmlns="http://www.w3.org/2000/svg"'
-      );
-    }
-
-    if (!source.match(/^<svg[^>]+"http\:\/\/www\.w3\.org\/1999\/xlink"/)) {
-      source = source.replace(
-        /^<svg/,
-        '<svg xmlns:xlink="http://www.w3.org/1999/xlink"'
-      );
-    }
-
-    source = '<?xml version="1.0" standalone="no"?>\r\n' + source;
-
-    const url =
-      "data:image/svg+xml;charset=utf-8," + encodeURIComponent(source);
-
-    const link = document.createElement("a");
-    link.href = url;
-    link.download = "chart.svg";
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
 
   return (
     <div>
       <svg ref={ref} />
-      <button onClick={downloadSVG}>Download SVG</button>
     </div>
   );
 }

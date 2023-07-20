@@ -3,6 +3,9 @@ import RadialBarChart from "./components/RadialBarChart";
 import data from "../src/components/finalData.json";
 import "./App.css";
 import Menu from "./components/Menu";
+import MineralList from "./components/MineralList";
+import VitaminList from "./components/VitaminList/VitaminList";
+import profilePic from "./assets/images/Profile_Pic_Deadlift_POP_OFF.png";
 
 // Convert data object into array
 const foodArray = Object.keys(data).map((foodId) => ({
@@ -14,16 +17,8 @@ function App() {
   const [selectedFood, setSelectedFood] = useState(foodArray[0]);
 
   return (
-    <div
-      className="App-screen"
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        padding: "1rem",
-        backgroundColor: "#555",
-      }}
-    >
-      <div>
+    <div className="App-screen">
+      <div className="App-container">
         <div>
           <Menu
             foodArray={foodArray}
@@ -31,7 +26,6 @@ function App() {
             selectedFood={selectedFood}
           />
         </div>
-
         <div
           style={{
             display: "flex",
@@ -72,19 +66,49 @@ function App() {
           >
             {selectedFood.food}
           </div>
+          <a
+            href="https://twitter.com/MPeytonCox"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ textDecoration: "none" }}
+          >
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "row",
+                alignItems: "center",
+                marginTop: 10,
+              }}
+            >
+              <img
+                src={profilePic}
+                alt="Profile"
+                style={{ width: "50px", height: "50px" }}
+              />
+
+              <h3 style={{ marginLeft: 5, color: "rgba(0,250,250,1)" }}>
+                @MPeytonCox
+              </h3>
+            </div>
+            <div
+              style={{
+                textDecoration: "none",
+                color: "rgba(150,150,150,1)",
+                paddingLeft: 20,
+              }}
+            >
+              👆 for more insights
+            </div>
+          </a>
+        </div>
+
+        <div className="App-Keys">
+          <MineralList />
+          <VitaminList />
         </div>
       </div>
-      <div
-        style={{
-          width: "100%",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          borderRadius: "20px",
-          marginTop: "5px",
-          zIndex: 0,
-        }}
-      >
+
+      <div className="App-chart">
         <RadialBarChart foodData={selectedFood.nutrients} />
       </div>
     </div>
