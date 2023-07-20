@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/d3-practice/static/css/main.fdc50c7c.css",
+    "main.js": "/d3-practice/static/js/main.4e165d6a.js",
+    "static/js/787.b71f3df0.chunk.js": "/d3-practice/static/js/787.b71f3df0.chunk.js",
+    "static/media/Profile_Pic_Deadlift_POP_OFF.png": "/d3-practice/static/media/Profile_Pic_Deadlift_POP_OFF.6367102675e67ada7f0e.png",
+    "static/media/Apace_MicroBreakdown_Logo.svg": "/d3-practice/static/media/Apace_MicroBreakdown_Logo.e1a8ef0fc8957a56fefa2be28b5b4798.svg",
+    "index.html": "/d3-practice/index.html",
+    "static/media/search_FILL0_wght400_GRAD0_opsz48.svg": "/d3-practice/static/media/search_FILL0_wght400_GRAD0_opsz48.d4a38f4f05d87364c965420cac125fb8.svg",
+    "main.fdc50c7c.css.map": "/d3-practice/static/css/main.fdc50c7c.css.map",
+    "main.4e165d6a.js.map": "/d3-practice/static/js/main.4e165d6a.js.map",
+    "787.b71f3df0.chunk.js.map": "/d3-practice/static/js/787.b71f3df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc50c7c.css",
+    "static/js/main.4e165d6a.js"
+  ]
+}
