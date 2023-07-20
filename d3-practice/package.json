@@ -15,7 +15,6 @@
     "web-vitals": "^2.1.4"
   },
   "homepage": "https://jakehartigan.github.io/d3-practice/",
-,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
