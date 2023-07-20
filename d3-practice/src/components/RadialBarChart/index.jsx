@@ -1,12 +1,21 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 import { getNutrientColor, isVitamin, isMineral } from "./getNutrientColor";
 import logo from "../../assets/images/Apace_MicroBreakdown_Logo.svg";
 
-const scaleAdj = 0.75;
-
 function RadialBarChart({ foodData }) {
   const ref = useRef();
+  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+
+  // Update window width when window size changes
+  useEffect(() => {
+    const handleResize = () => setWindowWidth(window.innerWidth);
+
+    window.addEventListener("resize", handleResize);
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
 
   useEffect(() => {
     const sortedData = foodData.sort((a, b) => {
@@ -19,10 +28,16 @@ function RadialBarChart({ foodData }) {
       return 0;
     });
 
+    // Adjust scale based on window width
+    let scaleMultiplier = 0.9;
+    if (windowWidth < 1000) {
+      scaleMultiplier = 0.5; // Adjust this value as needed
+    }
+
     const svg = d3
       .select(ref.current)
-      .attr("width", 1000 * scaleAdj)
-      .attr("height", 1000 * scaleAdj);
+      .attr("width", 1000 * scaleMultiplier)
+      .attr("height", 1000 * scaleMultiplier);
 
     // Clear svg
     svg.selectAll("*").remove();
@@ -62,7 +77,10 @@ function RadialBarChart({ foodData }) {
 
     const g = svg
       .append("g")
-      .attr("transform", `translate(${500 * scaleAdj},${500 * scaleAdj})`);
+      .attr(
+        "transform",
+        `translate(${500 * scaleMultiplier},${500 * scaleMultiplier})`
+      );
 
     const maxDataValue = d3.max(foodData, (d) => d.value);
     const xScale = d3
@@ -73,7 +91,7 @@ function RadialBarChart({ foodData }) {
     const yScale = d3
       .scaleRadial()
       .domain([0, maxDataValue])
-      .range([200 * scaleAdj, 400 * scaleAdj]);
+      .range([200 * scaleMultiplier, 400 * scaleMultiplier]);
 
     // Draw the background circle
     const maxRadius = yScale(maxDataValue) + 3;
@@ -103,9 +121,9 @@ function RadialBarChart({ foodData }) {
         // Add text label
         g.append("text")
           .attr("x", -10) // adjust x position to properly place the label
-          .attr("y", -yScale(i) + 12 + scaleAdj) // adjust y position to properly place the label
+          .attr("y", -yScale(i) + 12) // adjust y position to properly place the label
           .text(i + "%") // text to display
-          .style("font-size", "15px") // adjust text size
+          .style("font-size", "16px") // adjust text size
           .attr("fill", isMultipleOf100 ? "#06D6A0" : "#86BBD8"); // text color
       }
     }
@@ -147,7 +165,7 @@ function RadialBarChart({ foodData }) {
           : "rotate(-90)translate(0, -15)"
       )
       .text((d) => d.nutrient)
-      .style("font-size", `${15 * scaleAdj}px`)
+      .style("font-size", `10px`)
       .attr("fill", "white"); // change text color to white
 
     //ads logo to center
@@ -157,12 +175,15 @@ function RadialBarChart({ foodData }) {
         // Create a new SVG group for the logo
         const logoGroup = g
           .append("g")
-          .attr("transform", `scale(${scaleAdj}) translate(-71 -80)`);
+          .attr(
+            "transform",
+            `scale(${scaleMultiplier / 1.5}) translate(-71 -80)`
+          );
 
         // Set the logo SVG as the group's HTML content
         logoGroup.node().innerHTML = data;
       });
-  }, [foodData]);
+  }, [foodData, windowWidth]);
 
   return (
     <div>
