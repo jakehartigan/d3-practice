@@ -1,6 +1,6 @@
 import React from "react";
 import { VictoryBar, VictoryChart, VictoryAxis, VictoryTheme } from "victory";
-import data from "../transformedData.json";
+import data from "../finalData.json";
 
 const foodId1Data = data.foodId1.nutrients;
 const chartData = Object.keys(foodId1Data).map((nutrient) => ({

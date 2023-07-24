@@ -6,6 +6,8 @@ import Menu from "./components/Menu";
 import MineralList from "./components/MineralList";
 import VitaminList from "./components/VitaminList/VitaminList";
 import profilePic from "./assets/images/Profile_Pic_Deadlift_POP_OFF.png";
+import MineralChart from "./components/MineralChart";
+import VitaminChart from "./components/VitaminChart";
 
 // Convert data object into array
 const foodArray = Object.keys(data).map((foodId) => ({
@@ -110,6 +112,11 @@ function App() {
 
       <div className="App-chart">
         <RadialBarChart foodData={selectedFood.nutrients} />
+      </div>
+
+      <div>
+        <MineralChart foodData={selectedFood.nutrients} />
+        <VitaminChart foodData={selectedFood.nutrients} />
       </div>
     </div>
   );
